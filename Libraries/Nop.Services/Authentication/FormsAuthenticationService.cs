@@ -91,7 +91,7 @@ namespace Nop.Services.Authentication
             cookie.HttpOnly = true;
             //Remove If Condition will enable persistance cookies permanatly 
             //No Need of remember me check box in login page after removing If Condition...
-            //if (ticket.IsPersistent)
+            if (ticket.IsPersistent)
             {
                 cookie.Expires = ticket.Expiration;
                 
