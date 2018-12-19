@@ -1,0 +1,13 @@
+C:\Users\gurudatt.parmar\Desktop\NopCommercePracticeFloder\nopCommerceDemo2\Presentation\Nop.Web\Plugins\Payments.CheckMoneyOrder\Views\Configure.cshtml
+C:\Users\gurudatt.parmar\Desktop\NopCommercePracticeFloder\nopCommerceDemo2\Presentation\Nop.Web\Plugins\Payments.CheckMoneyOrder\Views\PaymentInfo.cshtml
+C:\Users\gurudatt.parmar\Desktop\NopCommercePracticeFloder\nopCommerceDemo2\Presentation\Nop.Web\Plugins\Payments.CheckMoneyOrder\web.config
+C:\Users\gurudatt.parmar\Desktop\NopCommercePracticeFloder\nopCommerceDemo2\Presentation\Nop.Web\Plugins\Payments.CheckMoneyOrder\Description.txt
+C:\Users\gurudatt.parmar\Desktop\NopCommercePracticeFloder\nopCommerceDemo2\Presentation\Nop.Web\Plugins\Payments.CheckMoneyOrder\logo.jpg
+C:\Users\gurudatt.parmar\Desktop\NopCommercePracticeFloder\nopCommerceDemo2\Presentation\Nop.Web\Plugins\Payments.CheckMoneyOrder\Nop.Plugin.Payments.CheckMoneyOrder.dll.config
+C:\Users\gurudatt.parmar\Desktop\NopCommercePracticeFloder\nopCommerceDemo2\Presentation\Nop.Web\Plugins\Payments.CheckMoneyOrder\Nop.Plugin.Payments.CheckMoneyOrder.dll
+C:\Users\gurudatt.parmar\Desktop\NopCommercePracticeFloder\nopCommerceDemo2\Presentation\Nop.Web\Plugins\Payments.CheckMoneyOrder\Nop.Plugin.Payments.CheckMoneyOrder.pdb
+C:\Users\gurudatt.parmar\Desktop\NopCommercePracticeFloder\nopCommerceDemo2\Plugins\Nop.Plugin.Payments.CheckMoneyOrder\obj\Debug\Nop.Plugin.Payments.CheckMoneyOrder.csproj.App.config
+C:\Users\gurudatt.parmar\Desktop\NopCommercePracticeFloder\nopCommerceDemo2\Plugins\Nop.Plugin.Payments.CheckMoneyOrder\obj\Debug\Nop.Plugin.Payments.CheckMoneyOrder.csproj.CoreCompileInputs.cache
+C:\Users\gurudatt.parmar\Desktop\NopCommercePracticeFloder\nopCommerceDemo2\Plugins\Nop.Plugin.Payments.CheckMoneyOrder\obj\Debug\Nop.Plugin.Payments.CheckMoneyOrder.dll
+C:\Users\gurudatt.parmar\Desktop\NopCommercePracticeFloder\nopCommerceDemo2\Plugins\Nop.Plugin.Payments.CheckMoneyOrder\obj\Debug\Nop.Plugin.Payments.CheckMoneyOrder.pdb
+C:\Users\gurudatt.parmar\Desktop\NopCommercePracticeFloder\nopCommerceDemo2\Plugins\Nop.Plugin.Payments.CheckMoneyOrder\obj\Debug\Nop.Plugin.Payments.CheckMoneyOrder.csprojAssemblyReference.cache

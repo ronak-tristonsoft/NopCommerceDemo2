@@ -1,0 +1,17 @@
+C:\Users\gurudatt.parmar\Desktop\NopCommercePracticeFloder\nopCommerceDemo2\Presentation\Nop.Web\Plugins\Shipping.FixedOrByWeight\Description.txt
+C:\Users\gurudatt.parmar\Desktop\NopCommercePracticeFloder\nopCommerceDemo2\Presentation\Nop.Web\Plugins\Shipping.FixedOrByWeight\web.config
+C:\Users\gurudatt.parmar\Desktop\NopCommercePracticeFloder\nopCommerceDemo2\Presentation\Nop.Web\Plugins\Shipping.FixedOrByWeight\Views\Configure.cshtml
+C:\Users\gurudatt.parmar\Desktop\NopCommercePracticeFloder\nopCommerceDemo2\Presentation\Nop.Web\Plugins\Shipping.FixedOrByWeight\Views\_CreateOrUpdateRateByWeight.cshtml
+C:\Users\gurudatt.parmar\Desktop\NopCommercePracticeFloder\nopCommerceDemo2\Presentation\Nop.Web\Plugins\Shipping.FixedOrByWeight\Views\AddRateByWeightPopup.cshtml
+C:\Users\gurudatt.parmar\Desktop\NopCommercePracticeFloder\nopCommerceDemo2\Presentation\Nop.Web\Plugins\Shipping.FixedOrByWeight\Views\EditRateByWeightPopup.cshtml
+C:\Users\gurudatt.parmar\Desktop\NopCommercePracticeFloder\nopCommerceDemo2\Presentation\Nop.Web\Plugins\Shipping.FixedOrByWeight\Views\_ByWeight.cshtml
+C:\Users\gurudatt.parmar\Desktop\NopCommercePracticeFloder\nopCommerceDemo2\Presentation\Nop.Web\Plugins\Shipping.FixedOrByWeight\Views\_FixedRate.cshtml
+C:\Users\gurudatt.parmar\Desktop\NopCommercePracticeFloder\nopCommerceDemo2\Presentation\Nop.Web\Plugins\Shipping.FixedOrByWeight\logo.jpg
+C:\Users\gurudatt.parmar\Desktop\NopCommercePracticeFloder\nopCommerceDemo2\Presentation\Nop.Web\Plugins\Shipping.FixedOrByWeight\Nop.Plugin.Shipping.FixedOrByWeight.dll.config
+C:\Users\gurudatt.parmar\Desktop\NopCommercePracticeFloder\nopCommerceDemo2\Presentation\Nop.Web\Plugins\Shipping.FixedOrByWeight\Nop.Plugin.Shipping.FixedOrByWeight.dll
+C:\Users\gurudatt.parmar\Desktop\NopCommercePracticeFloder\nopCommerceDemo2\Presentation\Nop.Web\Plugins\Shipping.FixedOrByWeight\Nop.Plugin.Shipping.FixedOrByWeight.pdb
+C:\Users\gurudatt.parmar\Desktop\NopCommercePracticeFloder\nopCommerceDemo2\Plugins\Nop.Plugin.Shipping.FixedOrByWeight\obj\Debug\Nop.Plugin.Shipping.FixedOrByWeight.csproj.App.config
+C:\Users\gurudatt.parmar\Desktop\NopCommercePracticeFloder\nopCommerceDemo2\Plugins\Nop.Plugin.Shipping.FixedOrByWeight\obj\Debug\Nop.Plugin.Shipping.FixedOrByWeight.csprojAssemblyReference.cache
+C:\Users\gurudatt.parmar\Desktop\NopCommercePracticeFloder\nopCommerceDemo2\Plugins\Nop.Plugin.Shipping.FixedOrByWeight\obj\Debug\Nop.Plugin.Shipping.FixedOrByWeight.csproj.CoreCompileInputs.cache
+C:\Users\gurudatt.parmar\Desktop\NopCommercePracticeFloder\nopCommerceDemo2\Plugins\Nop.Plugin.Shipping.FixedOrByWeight\obj\Debug\Nop.Plugin.Shipping.FixedOrByWeight.dll
+C:\Users\gurudatt.parmar\Desktop\NopCommercePracticeFloder\nopCommerceDemo2\Plugins\Nop.Plugin.Shipping.FixedOrByWeight\obj\Debug\Nop.Plugin.Shipping.FixedOrByWeight.pdb

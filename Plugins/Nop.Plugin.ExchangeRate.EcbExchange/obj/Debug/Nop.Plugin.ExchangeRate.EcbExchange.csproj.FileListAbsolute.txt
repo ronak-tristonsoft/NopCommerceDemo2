@@ -1,0 +1,9 @@
+C:\Users\gurudatt.parmar\Desktop\NopCommercePracticeFloder\nopCommerceDemo2\Presentation\Nop.Web\Plugins\ExchangeRate.EcbExchange\Description.txt
+C:\Users\gurudatt.parmar\Desktop\NopCommercePracticeFloder\nopCommerceDemo2\Presentation\Nop.Web\Plugins\ExchangeRate.EcbExchange\logo.jpg
+C:\Users\gurudatt.parmar\Desktop\NopCommercePracticeFloder\nopCommerceDemo2\Presentation\Nop.Web\Plugins\ExchangeRate.EcbExchange\Nop.Plugin.ExchangeRate.EcbExchange.dll.config
+C:\Users\gurudatt.parmar\Desktop\NopCommercePracticeFloder\nopCommerceDemo2\Presentation\Nop.Web\Plugins\ExchangeRate.EcbExchange\Nop.Plugin.ExchangeRate.EcbExchange.dll
+C:\Users\gurudatt.parmar\Desktop\NopCommercePracticeFloder\nopCommerceDemo2\Presentation\Nop.Web\Plugins\ExchangeRate.EcbExchange\Nop.Plugin.ExchangeRate.EcbExchange.pdb
+C:\Users\gurudatt.parmar\Desktop\NopCommercePracticeFloder\nopCommerceDemo2\Plugins\Nop.Plugin.ExchangeRate.EcbExchange\obj\Debug\Nop.Plugin.ExchangeRate.EcbExchange.csprojAssemblyReference.cache
+C:\Users\gurudatt.parmar\Desktop\NopCommercePracticeFloder\nopCommerceDemo2\Plugins\Nop.Plugin.ExchangeRate.EcbExchange\obj\Debug\Nop.Plugin.ExchangeRate.EcbExchange.csproj.CoreCompileInputs.cache
+C:\Users\gurudatt.parmar\Desktop\NopCommercePracticeFloder\nopCommerceDemo2\Plugins\Nop.Plugin.ExchangeRate.EcbExchange\obj\Debug\Nop.Plugin.ExchangeRate.EcbExchange.dll
+C:\Users\gurudatt.parmar\Desktop\NopCommercePracticeFloder\nopCommerceDemo2\Plugins\Nop.Plugin.ExchangeRate.EcbExchange\obj\Debug\Nop.Plugin.ExchangeRate.EcbExchange.pdb

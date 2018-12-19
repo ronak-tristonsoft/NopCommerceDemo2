@@ -1,0 +1,13 @@
+C:\Users\gurudatt.parmar\Desktop\NopCommercePracticeFloder\nopCommerceDemo2\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Views\Configure.cshtml
+C:\Users\gurudatt.parmar\Desktop\NopCommercePracticeFloder\nopCommerceDemo2\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Views\PaymentInfo.cshtml
+C:\Users\gurudatt.parmar\Desktop\NopCommercePracticeFloder\nopCommerceDemo2\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\web.config
+C:\Users\gurudatt.parmar\Desktop\NopCommercePracticeFloder\nopCommerceDemo2\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Description.txt
+C:\Users\gurudatt.parmar\Desktop\NopCommercePracticeFloder\nopCommerceDemo2\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\logo.jpg
+C:\Users\gurudatt.parmar\Desktop\NopCommercePracticeFloder\nopCommerceDemo2\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Nop.Plugin.Payments.PayPalStandard.dll.config
+C:\Users\gurudatt.parmar\Desktop\NopCommercePracticeFloder\nopCommerceDemo2\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Nop.Plugin.Payments.PayPalStandard.dll
+C:\Users\gurudatt.parmar\Desktop\NopCommercePracticeFloder\nopCommerceDemo2\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Nop.Plugin.Payments.PayPalStandard.pdb
+C:\Users\gurudatt.parmar\Desktop\NopCommercePracticeFloder\nopCommerceDemo2\Plugins\Nop.Plugin.Payments.PayPalStandard\obj\Debug\Nop.Plugin.Payments.PayPalStandard.csproj.App.config
+C:\Users\gurudatt.parmar\Desktop\NopCommercePracticeFloder\nopCommerceDemo2\Plugins\Nop.Plugin.Payments.PayPalStandard\obj\Debug\Nop.Plugin.Payments.PayPalStandard.csproj.CoreCompileInputs.cache
+C:\Users\gurudatt.parmar\Desktop\NopCommercePracticeFloder\nopCommerceDemo2\Plugins\Nop.Plugin.Payments.PayPalStandard\obj\Debug\Nop.Plugin.Payments.PayPalStandard.dll
+C:\Users\gurudatt.parmar\Desktop\NopCommercePracticeFloder\nopCommerceDemo2\Plugins\Nop.Plugin.Payments.PayPalStandard\obj\Debug\Nop.Plugin.Payments.PayPalStandard.pdb
+C:\Users\gurudatt.parmar\Desktop\NopCommercePracticeFloder\nopCommerceDemo2\Plugins\Nop.Plugin.Payments.PayPalStandard\obj\Debug\Nop.Plugin.Payments.PayPalStandard.csprojAssemblyReference.cache

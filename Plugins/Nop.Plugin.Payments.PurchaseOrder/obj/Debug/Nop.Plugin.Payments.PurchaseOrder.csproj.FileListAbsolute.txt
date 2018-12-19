@@ -1,0 +1,13 @@
+C:\Users\gurudatt.parmar\Desktop\NopCommercePracticeFloder\nopCommerceDemo2\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\Views\Configure.cshtml
+C:\Users\gurudatt.parmar\Desktop\NopCommercePracticeFloder\nopCommerceDemo2\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\Views\PaymentInfo.cshtml
+C:\Users\gurudatt.parmar\Desktop\NopCommercePracticeFloder\nopCommerceDemo2\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\web.config
+C:\Users\gurudatt.parmar\Desktop\NopCommercePracticeFloder\nopCommerceDemo2\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\Description.txt
+C:\Users\gurudatt.parmar\Desktop\NopCommercePracticeFloder\nopCommerceDemo2\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\logo.jpg
+C:\Users\gurudatt.parmar\Desktop\NopCommercePracticeFloder\nopCommerceDemo2\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\Nop.Plugin.Payments.PurchaseOrder.dll.config
+C:\Users\gurudatt.parmar\Desktop\NopCommercePracticeFloder\nopCommerceDemo2\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\Nop.Plugin.Payments.PurchaseOrder.dll
+C:\Users\gurudatt.parmar\Desktop\NopCommercePracticeFloder\nopCommerceDemo2\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\Nop.Plugin.Payments.PurchaseOrder.pdb
+C:\Users\gurudatt.parmar\Desktop\NopCommercePracticeFloder\nopCommerceDemo2\Plugins\Nop.Plugin.Payments.PurchaseOrder\obj\Debug\Nop.Plugin.Payments.PurchaseOrder.csproj.App.config
+C:\Users\gurudatt.parmar\Desktop\NopCommercePracticeFloder\nopCommerceDemo2\Plugins\Nop.Plugin.Payments.PurchaseOrder\obj\Debug\Nop.Plugin.Payments.PurchaseOrder.csproj.CoreCompileInputs.cache
+C:\Users\gurudatt.parmar\Desktop\NopCommercePracticeFloder\nopCommerceDemo2\Plugins\Nop.Plugin.Payments.PurchaseOrder\obj\Debug\Nop.Plugin.Payments.PurchaseOrder.dll
+C:\Users\gurudatt.parmar\Desktop\NopCommercePracticeFloder\nopCommerceDemo2\Plugins\Nop.Plugin.Payments.PurchaseOrder\obj\Debug\Nop.Plugin.Payments.PurchaseOrder.pdb
+C:\Users\gurudatt.parmar\Desktop\NopCommercePracticeFloder\nopCommerceDemo2\Plugins\Nop.Plugin.Payments.PurchaseOrder\obj\Debug\Nop.Plugin.Payments.PurchaseOrder.csprojAssemblyReference.cache

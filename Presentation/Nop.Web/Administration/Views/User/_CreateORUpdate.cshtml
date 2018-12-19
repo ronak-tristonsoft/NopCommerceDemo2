@@ -1,0 +1,71 @@
+﻿@model Nop.Admin.Models.User.UserModel
+
+    <div class="form-horizontal">
+        <h4>UserModel</h4>
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        @Html.HiddenFor(model => model.Id)
+        <div class="form-group">
+            <div class="col-md-3">
+            @Html.NopLabelFor(model => model.Name)
+                </div>
+            <div class="col-md-9">
+                @Html.NopEditorFor(model => model.Name)
+                @Html.ValidationMessageFor(model => model.Name)
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-3">
+                @Html.NopLabelFor(model => model.Gender)
+            </div>
+            <div class="col-md-9">
+                @Html.NopEditorFor(model => model.Gender)
+                @Html.ValidationMessageFor(model => model.Gender)
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-3">
+                @Html.NopLabelFor(model => model.EmailID)
+            </div>
+            <div class="col-md-9">
+                @Html.NopEditorFor(model => model.EmailID)
+                @Html.ValidationMessageFor(model => model.EmailID)
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-3">
+                @Html.NopLabelFor(model => model.Password)
+            </div>
+            <div class="col-md-9">
+                @Html.NopEditorFor(model => model.Password)
+                @Html.ValidationMessageFor(model => model.Password)
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-3">
+                @Html.NopLabelFor(model => model.ConfirmPassword)
+            </div>
+            <div class="col-md-9">
+                @Html.NopEditorFor(model => model.ConfirmPassword)
+                @Html.ValidationMessageFor(model => model.ConfirmPassword)
+            </div>
+            
+
+            @if (Model.Id <= 0)
+            {
+                <div class="form-group">
+                    <div class="col-md-offset-2 col-md-10">
+                        <input type="submit" value="Create" class="btn btn-default" />
+                    </div>
+                </div>
+            }
+
+
+        </div>
+    </div>
+
+

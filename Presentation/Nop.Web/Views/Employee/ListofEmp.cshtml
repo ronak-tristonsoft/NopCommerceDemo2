@@ -1,0 +1,65 @@
+﻿@model Nop.Web.Models.Employee.Employee_Address_ListModel
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2><b>List of Employee</b></h2>
+
+<br />
+
+@Html.ActionLink("Add New Employee", "Create")
+
+
+<div>
+    <table>
+        <tr>
+            <th>
+                @Html.NopLabelFor(m => m.Name)
+            </th>
+            <th>
+                @Html.NopLabelFor(m => m.Gender)
+            </th>
+            <th>
+                @Html.NopLabelFor(m => m.Address)
+            </th>
+        </tr>
+        <tr><td /></tr>
+
+        @foreach (var item in Model.employee_Address_ListModels)
+        {
+            <tr>
+                <td align="center">
+                    @Html.NopDisplayFor(Name => item.Name)
+                </td>
+                <td align="center">
+                    @Html.NopDisplayFor(Gender => item.Gender)
+                </td>
+                <td align="center">
+                    @Html.NopDisplayFor(Address => item.Address)
+                </td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { id = item.Id })
+                    @*@Html.ActionLink("Delete", "Delete", new { id = item.Id })*@
+                </td>
+            </tr>
+        }
+    </table>
+</div>
+
+@Html
+
+<html>
+<body>
+
+    <h2>What Can JavaScript Do?</h2>
+
+    <p>JavaScript can show hidden HTML elements.</p>
+
+    <p id="demo" style="display:none">Hello JavaScript!</p>
+
+    <button type="button" onclick="document.getElementById('demo').style.display ='Block'">Click Me!</button>
+
+</body>
+</html>
+
