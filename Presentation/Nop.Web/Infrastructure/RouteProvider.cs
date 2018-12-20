@@ -11,10 +11,7 @@ namespace Nop.Web.Infrastructure
         {
             //We reordered our routes so the most used ones are on top. It can improve performance.
 
-            //routes.MapLocalizedRoute("Employee",
-            //               "",
-            //               new { controller = "Employee", action = "Index" },
-            //               new[] { "Nop.Web.Controllers" });
+            
             //home page
             routes.MapLocalizedRoute("HomePage",
                             "",
@@ -729,7 +726,14 @@ namespace Nop.Web.Infrastructure
                             "page-not-found",
                             new { controller = "Common", action = "PageNotFound" },
                             new[] { "Nop.Web.Controllers" });
+
+            routes.MapRoute("Employee",
+                           "Employee/",
+                           new { controller = "Employee", action = "ListofEmp", Id = "" },
+                           new[] { "Nop.Web.Controllers" });
         }
+
+
 
         public int Priority
         {
